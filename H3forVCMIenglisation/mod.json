@@ -1,7 +1,7 @@
 {
 	"name" : "English translation",
 	"description" : "English translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.3.1",
+	"version" : "1.3.2",
 	"author" : "",
 	"contact" : "https://vcmi.eu/",
 	"modType" : "Translation",
@@ -12,8 +12,9 @@
 	},
 	"changelog" : 
 	{ 
+		"1.3.2" : [ "Removed beginning spaces in strings" ],
 		"1.3.1" : [ "Removed lines not present in H3" ],
-		"1.3" : [ "add other resources than text" ]
+		"1.3"   : [ "add other resources than text" ]
 	},
 	"german" : {
 		"name" : "Englische Übersetzung",
